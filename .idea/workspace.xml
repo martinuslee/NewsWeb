@@ -17,12 +17,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ae93d2a-823b-4496-a288-ff937de84629" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/NewsPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/usePromise.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Categories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NewsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewsList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +29,12 @@
   <component name="Git.Settings">
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1mb524w33R6nE1rDwqoG2aich8L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,6 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -59,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609749239262</updated>
-      <workItem from="1609749240879" duration="8610000" />
+      <workItem from="1609749240879" duration="9908000" />
     </task>
     <servers />
   </component>
@@ -94,6 +98,10 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="604" y="329" key="#Notifications/0.25.1440.875@0.25.1440.875" timestamp="1609749260946" />
+    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609830112736">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1609830112736" />
     <state x="433" y="268" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609751462035">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -106,6 +114,10 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="560" y="169" key="RollbackChangesDialog/0.25.1440.875@0.25.1440.875" timestamp="1609750269745" />
+    <state x="229" y="98" key="SettingsEditor" timestamp="1609830078802">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="229" y="98" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1609830078802" />
     <state x="385" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1609756025411">
       <screen x="0" y="25" width="1440" height="875" />
     </state>

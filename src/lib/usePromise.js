@@ -10,14 +10,15 @@ export default function usePromise(promiseCreator, deps) {
         const process = async () => {
             setLoading(true);
             try{
-                const resolved = await PromiseCreator();
+                const resolved = await promiseCreator();
                 setResolved(resolved);
             } catch (e) {
                 setError(e);
             }
             setLoading(false);
-        }
+        };
         process();
-    },deps);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, deps);
     return [loading, resolved, error];
 }

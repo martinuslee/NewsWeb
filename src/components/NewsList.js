@@ -33,7 +33,7 @@ const NewsList = ({ category }) => {
         return null;
     }
     if(error){
-        return <NewsItemBlock>에러 발생!</NewsItemBlock>;
+        return <NewsListBlock>에러 발생!</NewsListBlock>;
     }
     //articles 값이 유효할 때
     const { articles } = response.data;

@@ -17,9 +17,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ae93d2a-823b-4496-a288-ff937de84629" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lib/usePromise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/NewsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewsList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/usePromise.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/usePromise.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609749239262</updated>
-      <workItem from="1609749240879" duration="9908000" />
+      <workItem from="1609749240879" duration="10287000" />
     </task>
     <servers />
   </component>
